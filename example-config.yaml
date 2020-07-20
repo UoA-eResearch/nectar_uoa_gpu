@@ -1,0 +1,11 @@
+database:
+  host: 'xxxxx'
+  db: 'nova'
+  port: 3306
+  username: 'xxxxxxx'
+  password: 'xxxxxxx'
+nectar:
+  auth_url: 'https://keystone.rc.nectar.org.au:5000/v3/'
+  password: 'xxxxxxxx'
+  project_name: 'xxxxx'
+  username: 'xxxxxxx'
