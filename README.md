@@ -14,3 +14,8 @@ optional arguments:
   -l, --long              long format
 ```
 
+## Requires
+```
+python3 -m pip install pymysql
+python3 -m pip install nova
+```
